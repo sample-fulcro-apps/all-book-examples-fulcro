@@ -1,2 +1,2 @@
-# embedded-mock-server-example-fulcro
-A Fulcro example with an embedded client-side mock server 
+# all-book-examples-fulcro
+All examples from the `Fulcro` book.
