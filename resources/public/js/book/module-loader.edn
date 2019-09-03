@@ -1,0 +1,1 @@
+{:module-uris {:book [], :ui-main ["/js/book/ui-main.js"]}, :module-infos {:book nil, :ui-main #{:book}}}

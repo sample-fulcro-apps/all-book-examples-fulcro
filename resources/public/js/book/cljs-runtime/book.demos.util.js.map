@@ -1,0 +1,1 @@
+{"version":3,"sources":["book/demos/util.cljs"],"mappings":";;AAEA,AAAA,AAAMA;AAAN,AAAa,AAAAC","names":["book.demos.util/now","js/Date"],"sourcesContent":["(ns book.demos.util)\n\n(defn now [] (js/Date.))\n"]}
