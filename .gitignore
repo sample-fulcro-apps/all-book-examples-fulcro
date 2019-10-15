@@ -3,3 +3,4 @@ docs/js/
 .shadow-cljs
 .cpcache
 .idea
+/resources/public/js/
