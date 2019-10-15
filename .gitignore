@@ -2,3 +2,4 @@ node_modules
 docs/js/
 .shadow-cljs
 .cpcache
+.idea
