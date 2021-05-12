@@ -5,7 +5,7 @@
   "main": "index.js",
   "directories": {},
   "devDependencies": {
-    "codemirror": "^5.42.2",
+    "codemirror": "^5.58.2",
     "d3": "^5.7.0",
     "google-maps-react": "^2.0.2",
     "react": "16.8.6",
